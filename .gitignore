@@ -1,0 +1,25 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+build/
+dist/
+
+# ===== VSCode / IDE =====
+.vscode/
+.idea/
+
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ===== Unity package grande (Vuforia) =====
+Puzzle 15/unity/Packages/com.ptc.vuforia.engine-*.tgz

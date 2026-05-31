@@ -1,4 +1,4 @@
-# Puzzle 3x3 (Python)
+# 🧩 Puzzle 3x3 (Python)
 
 Juego tipo Puzzle 3x3 desarrollado en Python utilizando PySide6.
 
@@ -6,7 +6,7 @@ El objetivo consiste en reorganizar las piezas numeradas hasta colocarlas en el 
 
 Al completar el puzzle, el sistema muestra una imagen especial utilizada posteriormente como marcador para una aplicación de realidad aumentada desarrollada en Unity + Vuforia.
 
-## Características
+## 📋 Características
 
 * Interfaz gráfica con PySide6.
 * Mezcla aleatoria del tablero.
@@ -15,13 +15,17 @@ Al completar el puzzle, el sistema muestra una imagen especial utilizada posteri
 * Detección automática de victoria.
 * Visualización de imagen de recompensa.
 
-## Tecnologías utilizadas
+---
+
+## 🛠️ Tecnologías utilizadas
 
 * Python 3
 * PySide6
 * Qt Framework
 
-## Estructura
+---
+
+## 📁 Estructura
 
 ```text
 py/
@@ -31,7 +35,9 @@ py/
 └── README.md
 ```
 
-## Funcionamiento
+---
+
+## 🚀 Funcionamiento
 
 1. El tablero se mezcla aleatoriamente.
 2. El jugador mueve las piezas.
@@ -43,7 +49,9 @@ py/
 
 Esta imagen puede ser utilizada por la aplicación móvil de realidad aumentada incluida en este proyecto.
 
-## Instalación
+---
+
+## 📦 Instalación
 
 Instalar dependencias:
 
@@ -57,7 +65,9 @@ Ejecutar:
 python Puzzle15.py
 ```
 
-## Relación con Realidad Aumentada
+---
+
+## 🌐 Relación con Realidad Aumentada
 
 Este juego forma parte de una experiencia complementaria.
 

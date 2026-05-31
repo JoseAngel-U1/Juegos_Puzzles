@@ -1,10 +1,10 @@
-# Juegos y Puzzles
+# 🎮 Juegos y Puzzles
 
 Colección de juegos y puzzles clásicos desarrollados como práctica de programación, lógica, algoritmos y diseño de interfaces gráficas.
 
 Este repositorio reúne distintos proyectos implementados con diversas tecnologías, explorando desde aplicaciones de escritorio hasta experiencias complementadas con realidad aumentada.
 
-## Objetivos del repositorio
+## 📌 Objetivos del repositorio
 
 * Practicar lógica de programación.
 * Implementar algoritmos clásicos.
@@ -14,19 +14,19 @@ Este repositorio reúne distintos proyectos implementados con diversas tecnolog�
 
 ---
 
-## Proyectos incluidos
+## 🧩 Proyectos incluidos
 
 ### Gato (Tres en raya)
 
 Juego clásico de Gato desarrollado en Python.
 
-Características:
+**Características**
 
 * Interfaz gráfica.
 * Lógica de turnos.
 * Validación de victoria y empate.
 
-Ubicación:
+**Ubicación**
 
 ```text
 Gato/
@@ -38,7 +38,7 @@ Gato/
 
 Puzzle deslizante desarrollado en Python con integración complementaria de realidad aumentada en Unity + Vuforia.
 
-Características:
+**Características**
 
 * Tablero 3x3.
 * Mezcla aleatoria validada.
@@ -47,7 +47,7 @@ Características:
 * Imagen de recompensa utilizada como marcador AR.
 * Aplicación móvil complementaria para visualización 3D.
 
-Estructura:
+**Estructura**
 
 ```text
 Puzzle 15/
@@ -55,13 +55,11 @@ Puzzle 15/
 └── unity/
 ```
 
-Flujo general:
-
-Resolver puzzle → mostrar imagen → escaneo móvil → visualización del modelo 3D.
+> Resolver puzzle → mostrar imagen → escaneo móvil → visualización del modelo 3D.
 
 ---
 
-## Tecnologías utilizadas
+## 🧪 Tecnologías utilizadas
 
 Dependiendo del proyecto:
 
@@ -74,7 +72,7 @@ Dependiendo del proyecto:
 
 ---
 
-## Autor
+## 👤 Autor
 
 Jose Angel
 
